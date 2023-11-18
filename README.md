@@ -1,6 +1,6 @@
 # SQL-MUSIC-STORE-DATA-ANALYSIS
 
-I solved few questions will makkig SQL end to end project.
+I solved few questions will making SQL end to end project.
 
 **********Question Set 1 - Easy*******
 1. Who is the senior most employee based on job title?
